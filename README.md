@@ -15,4 +15,4 @@
 
 ####**POS Begin At Block 200**
 
-(https://bitcointalk.org/index.php?topic=776463.0)
+(https://bitcointalk.org/index.php?topic=1092796.0)
